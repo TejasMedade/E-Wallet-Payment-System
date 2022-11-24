@@ -50,31 +50,28 @@ The REST API allows a Customer to **Signup, Login** & make **Transactions** to t
     - Signup 
     - Login & Logout
     - Update all Personal Details and Address 
-    - View all Products with filtering options
-    - Add Products to Cart
-    - Update Products Quantity in Cart 
-    - Delete Products from Cart
-    - Empty Cart
-    - Add Order
-    - Cancel Order
-    - View Orders with filtering options
+    - Add Bank Account, Update and View all bank details
+    - Top Up Wallet From Bank Account Balance
+    - Transfer Money From Wallet to Bank Account
+    - Transfer Funds to other Customers
+    - Transfer Funds to Beneficiaries
+    - Make Bill Payments
+    - Check Wallet Balance
+    - View all Transactions
+    - View all Bill Payments
+    - Add, Delete and View all Beneficiaries
     - Delete Customer Account
 
 
 - Administrator
     -
     - Login & Logout
-    - View all Products
-    - View all Orders of an User
-    - View all Customers
-    - Add New Products into Database
-    - Remove Products from Database
-    - Update Products in Database 
+    - View all registered Customers 
+    - View all Customer details
+    - View all Customer Bank Accounts
+    - View all Customer Beneficiaries
+    - View all Customers Transactions
     - Delete Admin from Database
-
-
-    
-
 
 
 
@@ -94,26 +91,23 @@ https://dev.mysql.com/downloads/mysql/
 Clone the Project
 
 ```bash
-git clone https://github.com/TejasMedade/Online-Shopping-System
+git clone https://github.com/TejasMedade/E-Wallet-Payment-System
 ```
 
 Open MySQL Server
 ```bash
-Create a New Database in SQL: "Online_Shopping_System" 
+Create a New Database in SQL: "e_wallet" 
 ```
-Go to the Project Directory & Open SQL Folder > SQL Tables
-
-```bash
-Create The Same Tables in Your "Online_Shopping_System" Database 
-```
-
 Create a Admin For Your Database
 
 ```bash
-INSERT INTO ADMIN VALUES('Admin_01','Admin@01');
+INSERT INTO ADMIN VALUES('1001','admin_email','admin_first_name','admin_last_name','admin_mobile_number','admin_password');
 ```
 
-
+Note for Admin & User
+```bash
+Admin Id : Min=1001, Max=1010 ; User Id : Enter Your Registered Mobile Number For Login, User Validation and Authentication. 
+```
 
 
 ## Run Locally
@@ -122,7 +116,7 @@ INSERT INTO ADMIN VALUES('Admin_01','Admin@01');
 Go to the Project Directory
 
 ```bas
-Open the Online_Shopping_System Folder with S.T.S
+Open the Payment Wallet Application Folder with S.T.S
 ```
 
 Go to **src/main/resources > application.properties** & change your username and password (MySQL server username & password)
@@ -158,7 +152,7 @@ http://localhost:8088/swagger-ui/
 ```bash
 http://localhost:8088
 ```
-
+## API REFERENCES
 
 ## Contributions
 
