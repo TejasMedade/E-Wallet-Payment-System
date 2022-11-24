@@ -106,7 +106,7 @@ INSERT INTO ADMIN VALUES('1001','admin_email','admin_first_name','admin_last_nam
 
 Note for Admin & User
 ```bash
-Admin Id : Min=1001, Max=1010 ; User Id : Enter Your Registered Mobile Number For Login, User Validation and Authentication. 
+Admin Id : Min=1000, Max=1010 ; User Id : Enter Your Registered Mobile Number For Login, User Validation and Authentication. 
 ```
 
 
