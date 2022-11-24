@@ -5,17 +5,19 @@
 
  **REST API SERVICE**
 
-The **Shopper's Club** has developed this REST API, which allows **Customers** to browse the **Products**, Save them to **Cart** for future, perform all the basic fundamental **CRUD** operations like any other Shopping Application and place **Orders** as per their requirements.
+**E PAY WALLET** has developed this REST API, which allows **Customers** to transfer **Money** to their **Digital Wallet** from **Bank**, and vice-versa, **Customers** can maintain **Transactions** with other **Registered Customers** on the E PAY, can make **Transactions** directly through Bank Account to their saved **Beneficiaries**.
+**Customers** through **E PAY** can also make **Payments** for their **Utility & Other Bills** and can perform all the basic fundamental **CRUD** operations like any other Digital Wallet Application.
 
-The  **Shopper's Club** API also provides **User, Admin Authentication & Validation** for every operation. 
+**E Pay** API also provides **Customer, Admin Authentication & Validation**. 
 
-The application's primary objective is to provide **Customers with both a Simple & User-Friendly Shopping Experience.**
+The api's primary objective is to provide **Customers with both a Simple & User-Friendly Digital Wallet Payment Experience.**
 
 The application will be used by the **two** categories of users:
 
 - **Admin (Administrator)**
 
 - **User (Customer)** 
+
 ## Tech Stack
 
 - JAVA
@@ -39,26 +41,9 @@ The application will be used by the **two** categories of users:
 - SWAGGER UI
 
 
-
-
-
 ## System Structure
 
-The REST API allows a Customer to **Signup, Login** & **Browse** through the products and add them to **Cart** wishlist, as well as the Administrator to **View** all the **Orders, Customers & Products** with filtering options. 
-
-Administrator can **Add, Update, View, Delete** **Products** & other **Administrators** from the **Database**.
-  
-
-- Administrator
-    -
-    - Login & Logout
-    - View all Products
-    - View all Orders of an User
-    - View all Customers
-    - Add New Products into Database
-    - Remove Products from Database
-    - Update Products in Database 
-    - Delete Admin from Database
+The REST API allows a Customer to **Signup, Login** & make **Transactions** to their **Contacts**, **Beneficiaries** and other **Utility Bills**, as well as the Administrator to **View** all the **Customers, Beneficiaries & Transactions of an User, ** for better customer support . 
 
 - User / Customer
     -
@@ -74,6 +59,20 @@ Administrator can **Add, Update, View, Delete** **Products** & other **Administr
     - Cancel Order
     - View Orders with filtering options
     - Delete Customer Account
+
+
+- Administrator
+    -
+    - Login & Logout
+    - View all Products
+    - View all Orders of an User
+    - View all Customers
+    - Add New Products into Database
+    - Remove Products from Database
+    - Update Products in Database 
+    - Delete Admin from Database
+
+
     
 
 
