@@ -5,7 +5,7 @@
 
 
 
- **REST API SERVICE**
+ ## **REST API SERVICE**
 
 **E PAY WALLET** has developed this REST API, which allows **Customers** to transfer **Money** to their **Digital Wallet** from **Bank**, and vice-versa, **Customers** can maintain **Transactions** with other **Registered Customers** on the E PAY, can make **Transactions** directly through Bank Account to their saved **Beneficiaries**.
 **Customers** through **E PAY** can also make **Payments** for their **Utility & Other Bills** and can perform all the basic fundamental **CRUD** operations like any other Digital Wallet Application.
