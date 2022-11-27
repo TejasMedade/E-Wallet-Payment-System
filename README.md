@@ -12,7 +12,7 @@
 
 **E Pay** API also provides **Customer, Admin Authentication & Validation**. 
 
-The api's primary objective is to provide **Customers with both a Simple & User-Friendly Digital Wallet Payment Experience.**
+The api's primary objective is to provide **Customers with both a Simple & User-Friendly Digital Wallet Payment Experience**.
 
 The application will be used by the **two** categories of users:
 
