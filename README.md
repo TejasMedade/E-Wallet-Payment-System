@@ -45,7 +45,7 @@ The application will be used by the **two** categories of users:
 
 ## System Structure
 
-The REST API allows a Customer to **Signup, Login** & make **Transactions** to their **Contacts**, **Beneficiaries** and other **Utility Bills**, as well as the Administrator to **View** all the **Customers, Beneficiaries & Transactions of an User, ** for better customer support . 
+The REST API allows a Customer to **Signup, Login** & make **Transactions** to their **Contacts**, **Beneficiaries** and other **Utility Bills**, as well as the Administrator to **View** all the **Customers, Beneficiaries & Transactions of an User**, for better customer support . 
 
 - User / Customer
     -
