@@ -231,9 +231,13 @@ Contributions are always **Welcome** !
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
 
-If you have a suggestion that would make this REST API better, Please fork the repo and create a pull request. You can also connect with me for further development of this application !
+If you have any ideas on how to improve this resume, please feel free to fork the repository and submit a pull request. Your contributions, no matter how big or small, are greatly appreciated and will help to make this repository even better.
 
-Don't forget to give the project a star ! Thank You !
+In addition to contributing to the repository, you can also connect with me for further development and collaboration on this API. Together, we can continue to improve and evolve the API to meet the needs of the community.
+
+We encourage you to give the repository a star and we thank you for your interest in this project. 
+
+Your support is greatly appreciated.
 
 ## 🔗 Contact Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tejasmedade.github.io/)
