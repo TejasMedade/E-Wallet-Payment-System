@@ -58,32 +58,44 @@ This solution is perfect for anyone looking for quick, easy, and secure online t
 
 
 ## User Functionalities
-    
-- Signup 
-- Login & Logout
-- Update all Personal Details and Address 
-- Add Bank Account, Update and View all bank details
-- Top Up Wallet From Bank Account Balance
-- Transfer Money From Wallet to Bank Account
-- Transfer Funds to other Customers
-- Transfer Funds to Beneficiaries
-- Make Bill Payments
-- Check Wallet Balance
-- View all Transactions
-- View all Bill Payments
-- Add, Delete and View all Beneficiaries
-- Delete Customer Account
+- **Authentication Management**
+  - Endpoint for Sign Up
+  - Endpoint for Sign In
+  - Endpoint for Sign Out
+
+- **Financial Management**
+
+  - Endpoint for Updating Personal Information and Address
+  - Endpoint for Adding Bank Account Information
+  - Endpoint for Updating Bank Account Information
+  - Endpoint for Viewing Bank Account Information
+  - Endpoint for Topping Up Wallet from Bank Account Balance
+  - Endpoint for Transferring Money from Wallet to Bank Account
+  - Endpoint for Transferring Funds to other Customers
+  - Endpoint for Transferring Funds to Beneficiaries
+  - Endpoint for Making Bill Payments
+  - Endpoint for Checking Wallet Balance
+
 
 
 ##  Administrator Functionalities
     
- - Login & Logout
- - View all registered Customers 
- - View all Customer details
- - View all Customer Bank Accounts
- - View all Customer Beneficiaries
- - View all Customers Transactions
- - Delete Admin from Database
+- **Authentication Management**
+  - Endpoint for Sign Up
+  - Endpoint for Sign In
+  - Endpoint for Sign Out
+
+- **Admin Account Management**
+  - Endpoint for Deleting Admins from Database
+
+- **Customer Management**
+
+  - Endpoint for Viewing Registered Customers
+  - Endpoint for Viewing Customer Information
+  - Endpoint for Viewing Customer Bank Accounts
+  - Endpoint for Viewing Customer Beneficiaries
+  - Endpoint for Viewing Customer Transactions
+
 
 
 
