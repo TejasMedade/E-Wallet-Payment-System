@@ -166,49 +166,49 @@ http://localhost:8088
 ```
 ## API REFERENCES
 
-## Customer Controller
+## Customer API Reference
 ![Screenshot 2022-11-25 at 02-28-34 Swagger UI](https://user-images.githubusercontent.com/105907169/203862673-27cb3929-3ed0-40de-ad43-c3147d3b5569.png)
 
 
 
-## Wallet Controller 
+## Wallet API Reference 
 
 
 ![Screenshot 2022-11-25 at 02-30-27 Swagger UI](https://user-images.githubusercontent.com/105907169/203862704-869fb029-4b83-473a-9eba-91c76c78b64d.png)
 
-## Address Controller
+## Address API Reference
 
 
 ![Screenshot 2022-11-25 at 02-27-29 Swagger UI](https://user-images.githubusercontent.com/105907169/203862722-b0ef2994-cdb7-4774-91d1-421f1e6338c6.png)
 
-## Bank Account Controller
+## Bank Account API Reference
 
 
 ![Screenshot 2022-11-25 at 02-27-55 Swagger UI](https://user-images.githubusercontent.com/105907169/203862765-4db87a6c-496e-4520-8f34-75ab6e02c62c.png)
 
-## Beneficiary Controller
+## Beneficiary API Reference
 
 
 ![Screenshot 2022-11-25 at 02-28-10 Swagger UI](https://user-images.githubusercontent.com/105907169/203862839-0e952f2d-f623-43f3-8138-7a2da3fbd3a1.png)
 
 
-## Bill Payment Controller
+## Bill Payment API Reference
 
 ![Screenshot 2022-11-25 at 02-28-22 Swagger UI](https://user-images.githubusercontent.com/105907169/203862904-2508b507-a06f-479c-b3d7-069c3a78f203.png)
 
 
-## Customer Login Logout Controller
+## Customer Login Logout API Reference
 
 
 ![Screenshot 2022-11-25 at 02-29-05 Swagger UI](https://user-images.githubusercontent.com/105907169/203862971-11f8bd90-090e-4012-b310-530076442020.png)
 
 
-## Admin Login Logout Controller
+## Admin Login Logout API Reference
 
 
 ![Screenshot 2022-11-25 at 02-28-53 Swagger UI](https://user-images.githubusercontent.com/105907169/203863015-61d11dd5-efb6-42bd-9c81-75fd0091ac6f.png)
 
-## Transactions Controller
+## Transactions API Reference
 
 ![Screenshot 2022-11-25 at 02-29-19 Swagger UI](https://user-images.githubusercontent.com/105907169/203863039-06043861-886f-48a0-871c-b5cc84aa348d.png)
 
