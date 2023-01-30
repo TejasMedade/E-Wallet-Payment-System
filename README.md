@@ -5,7 +5,7 @@
 
 
 
-## **REST API WEB SERVICE**
+## **WEB SERVICE : REST A.P.I.**
 
 
 The Digital Wallet Application's REST API, developed by E PAY, offers customers the convenience and flexibility of being able to transfer money to and from their digital wallet and linked bank accounts. The API also allows for transactions with other registered customers on the E PAY platform and the ability to make payments directly to saved beneficiaries through their bank accounts. 
